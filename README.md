@@ -1,4 +1,5 @@
 Project for Deep Reinforcment Learning - UZH Course 
 
-# Deep Reinforcment Learning - Portfolio Management Approach
+# Deep Reinforcment Learning - Portfolio Management
+
 
